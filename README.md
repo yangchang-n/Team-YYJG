@@ -6,7 +6,7 @@
 #### 현재까지 구현한 웹 사이트를 본인 컴퓨터에서 실행시키고 싶으신 분들을 위해 설명남깁니다. - 양창은
 
 1. 먼저 팀 git repository에 업로드된 최신 버전의 full_program.zip을 다운 받으시고 압축 해제해서 다음과 같이 디렉토리 구조를 배치해주세요.
-(saved_image 폴더는 비어있는 폴더입니다.)
+(압축 해제하면 디폴트로 이미 배치되어 있어서 상위 디렉토리 경로는 달라도 상관없으며, saved_image 폴더는 처음에는 비어있는 폴더입니다.)
 
 <img src = 'https://user-images.githubusercontent.com/104478650/185074052-e7f2dd23-63a0-4ec8-9b32-01adffd4a90e.jpg' width = '800'>
 
