@@ -1,6 +1,6 @@
 ### AI_Team_YYJG
 
-[영양제공 WBS 링크](https://docs.google.com/spreadsheets/d/12GQ9VEX7DxRUBWMm0SNXmG4ZrZy0_ye-cy7Ktq7Y-Qo/edit#gid=785598881)
+[영양재공 WBS 링크](https://docs.google.com/spreadsheets/d/12GQ9VEX7DxRUBWMm0SNXmG4ZrZy0_ye-cy7Ktq7Y-Qo/edit#gid=785598881)
 
 
 #### 현재까지 구현한 웹 사이트를 본인 컴퓨터에서 실행시키고 싶으신 분들을 위해 설명남깁니다. - 양창은
