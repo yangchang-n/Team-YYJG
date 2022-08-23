@@ -18,8 +18,9 @@
   - 추가로 구동을 위해 설치해야 할 모듈은 다음과 같습니다. (이미 설치되어 있으면 스킵)
     - Mediapipe
     - Tensorflow
-    - PIL
+    - Pillow
     - OpenCV
+    - Scikit-learn
 
 3. 아나콘다 명령창(Anaconda Prompt)에서 Project_005_in_all.py 파일이 있는 디렉토리로 이동한 후,
 4. 명령창에서 streamlit run Project_005_in_all.py 명령을 입력하시면 자동으로 브라우저에 열리게 됩니다.
