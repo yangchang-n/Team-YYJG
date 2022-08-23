@@ -1,5 +1,13 @@
 ## Team-YYJG
 
+####
+
+<div align = center>
+  <img src = 'https://user-images.githubusercontent.com/104478650/186127396-b9a8f7c7-9b37-4945-b2e4-241d415186cb.png' width = '90%'>
+</div>
+
+####
+
 [영양재공 WBS 링크](https://docs.google.com/spreadsheets/d/12GQ9VEX7DxRUBWMm0SNXmG4ZrZy0_ye-cy7Ktq7Y-Qo/edit#gid=785598881)
 
 [Streamlit Share로 배포한 사이트](https://yangchangnaihoby-project-005-try-stre-project-005-in-all-ybqtak.streamlitapp.com)
@@ -14,7 +22,9 @@
 - 압축 해제하면 디폴트로 이미 배치되어 있어서 상위 디렉토리 경로는 달라도 상관없으며,
 - saved_image 폴더는 처음에는 비어있는 폴더입니다.
 
-<img src = 'https://user-images.githubusercontent.com/104478650/185074052-e7f2dd23-63a0-4ec8-9b32-01adffd4a90e.jpg' width = '800'>
+<div align = center>
+  <img src = 'https://user-images.githubusercontent.com/104478650/185074052-e7f2dd23-63a0-4ec8-9b32-01adffd4a90e.jpg' width = '90%'>
+</div>
 
 2. 그 다음 anaconda에서 본인의 가상환경 상에 pip install streamlit을 통해 streamlit 라이브러리를 설치해주세요.
   - 추가로 구동을 위해 설치해야 할 모듈은 다음과 같습니다. (이미 설치되어 있으면 스킵)
