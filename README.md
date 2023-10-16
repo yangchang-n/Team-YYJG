@@ -18,7 +18,7 @@
 
 ~~[Streamlit Share로 배포한 사이트](https://yangchangnaihoby-project-005-try-stre-project-005-in-all-ybqtak.streamlitapp.com)~~
 
-[시연 영상](https://youtu.be/gJTN2_X1sFU?si=74ikTvgG76KtOiwV) (Youtube)
+[시연 영상](https://youtu.be/gJTN2_X1sFU) (Youtube)
 
 ####
 
